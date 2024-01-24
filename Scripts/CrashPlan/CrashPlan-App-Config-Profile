@@ -1,0 +1,16 @@
+​​​​<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>crashplanActivationEmail</key>
+    <string>$USERNAME</string>
+    <key>DEPLOYMENT_URL</key>
+    <string>YOUR URL HERE</string>
+    <key>DEPLOYMENT_POLICY_TOKEN</key>
+    <string>YOUR CRASHPLAN TOKEN</string>
+    <key>CP_SILENT</key>
+    <string>true</string>
+    <key>DEVICE_CLOAKED</key>
+    <string>false</string>
+</dict>
+</plist>
