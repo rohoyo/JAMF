@@ -18,7 +18,7 @@
 ### **Modify Properties on JAMF Pro for Your CrashPlan Instance (CrashPlan-App-Config-Profile.mobileconfing)**
 > **Jamf Server --> computers --> Configuration Profiles --> CrashPlan Application Configuration --> Application & Custom Settings**
   - **crashplanActivationEmail (CrashPlan requires an email for this key)**
-    - >**$USERNAME or $EMAIL** (depending on your attribute mapping)
+    - >**$USERNAME or $EMAIL** (depending on your JAMF attribute mapping)
   - **DEPLOYMENT_UR=**
     - > your CrashPlan's deployment URL
   - **DDEPLOYMENT_POLICY_TOKEN=**
