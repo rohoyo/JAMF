@@ -15,7 +15,7 @@
       - > other user detection scripts **[example mac user detection scripts](https://support.crashplan.com/hc/en-us/articles/8653225861901)**
     
 
-### **Modify Properties on JAMF Pro for Your CrashPlan Instance(CrashPlan-App-Config-Profile.mobileconfing)**
+### **Modify Properties on JAMF Pro for Your CrashPlan Instance (CrashPlan-App-Config-Profile.mobileconfing)**
 > **Jamf Server --> computers --> Configuration Profiles --> CrashPlan Application Configuration --> Application & Custom Settings**
   - **crashplanActivationEmail (CrashPlan requires an email for this key)**
     - >**$USERNAME or $EMAIL** (depending on your attribute mapping)
