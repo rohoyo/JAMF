@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>crashplanActivationEmail</key>
-    <string>$USERNAME</string>
+    <string>$USERNAME or $EMAIL</string>
     <key>DEPLOYMENT_URL</key>
     <string>YOUR URL HERE</string>
     <key>DEPLOYMENT_POLICY_TOKEN</key>
