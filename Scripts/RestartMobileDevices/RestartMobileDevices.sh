@@ -10,16 +10,16 @@
 ###################################################
 ###################################################
 ###################################################
-##   If wanting to restart only one device 
-##   Enter "yes" in the policy parameter 7  
-##   and enter the single mobildeDeviceID in  
-##	 policy parameter 8.  
+##  If wanting to restart only one device 
+##  Enter "yes" in the policy parameter 7  
+##  and enter the single mobildeDeviceID in  
+##  policy parameter 8.  
 ##
 ##
-##   If wanting to restart all devices in  
-##   a group. Leave policy parameter 7     
-##   Empty and enter the mobildedeviceID 	 
-##   in parameter 8.						           
+##  If wanting to restart all devices in  
+##  a group. Leave policy parameter 7     
+##  Empty and enter the mobildedeviceID 	 
+##  in parameter 8.						           
 ###################################################
 
 
