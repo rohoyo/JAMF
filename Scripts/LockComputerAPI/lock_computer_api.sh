@@ -6,7 +6,7 @@ jamfProURL="" # JAMF instance URL
 jssID= # Macbook JAMF ID
 lockCode= # JAMF Lock Code 6 Digits
 lockMessage="" # Message to display when Macbook is locked
-apiData="<computer_command><general><command>DeviceLock</command><passcode>${lockCode}</passcode><lock_message>${lockMessage}</lock_message></general><computers><computer><id>${jssID}</id></computer></computers></computer_command>" #curl data 
+apiData="<computer_command><general><command>DeviceLock</command><passcode>$lockCode</passcode><lock_message>$lockMessage</lock_message></general><computers><computer><id>$jssID</id></computer></computers></computer_command>" #curl data 
 
 
 # created base64-encoded credentials
